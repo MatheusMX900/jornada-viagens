@@ -42,3 +42,7 @@ button {
   vertical-align: baseline;
   background: transparent;
 }
+
+body {
+  font-family: "Montserrat";
+}
