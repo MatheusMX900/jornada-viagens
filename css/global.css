@@ -42,9 +42,3 @@ button {
   vertical-align: baseline;
   background: transparent;
 }
-
-h1 {
-  font-family: "Montserrat";
-  font-weight: var(--title-weight);
-  color: var(--primary-color);
-}
